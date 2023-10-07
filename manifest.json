@@ -1,0 +1,20 @@
+{
+    "name": "Cricket Matches Status",
+    "version": "1.0.0",
+    "description": "To know the Matches Satus",
+    "manifest_version": 3,
+    "author": "Saurav Chawla",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Cricket Chrome Extension"
+    },
+    "icons": {
+        "16": "/images/image_16.png",
+        "20": "/images/image_20.png",
+        "24": "/images/image_24.png",
+        "32": "/images/image_32.png",
+        "48": "/images/image_48.png",
+        "64": "/images/image_64.png",
+        "128": "/images/image_128.png"
+    }
+}
